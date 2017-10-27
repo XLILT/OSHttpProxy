@@ -1,0 +1,5 @@
+Oct 26 19:33:25.759 - [INFO] use config_path:D:\втсице\XX-Net\XX-Net-test\data\x_tunnel\client.json
+Oct 26 19:33:25.760 - [INFO] Use proxy:127.0.0.1:8087
+Oct 26 19:33:25.761 - [DEBUG] x-tunnel no account
+Oct 26 19:33:25.761 - [WARNING] x-tunnel session not start
+Oct 26 19:33:25.763 - [INFO] Socks5 server listen:127.0.0.1:1080.

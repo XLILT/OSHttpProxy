@@ -1,0 +1,6 @@
+Oct 26 19:33:24.444 - [INFO] use build-in openssl lib
+Oct 26 19:33:24.445 - [INFO] start XX-Net
+Oct 26 19:33:25.749 - [INFO] module gae_proxy started
+Oct 26 19:33:25.749 - [INFO] start gae_proxy time cost:1304 ms
+Oct 26 19:33:25.859 - [INFO] module x_tunnel started
+Oct 26 19:33:25.860 - [INFO] start x_tunnel time cost:109 ms
